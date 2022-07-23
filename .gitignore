@@ -1,0 +1,5 @@
+.idea
+img/citizens/*
+!img/citizens/___.jpg
+admin/backup/decrypt/private.pem
+**/.DS_Store
